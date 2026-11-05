@@ -1,0 +1,15 @@
+{
+  "name": "submission-correctness",
+  "description": "Make sure the grader can install and run your project before the deadline.",
+  "owner": {
+    "name": "Abdlaraouf Alkabir",
+    "url": "https://github.com/afel6"
+  },
+  "plugins": [
+    {
+      "name": "submission-correctness",
+      "source": "./",
+      "description": "Pre-submission check: the exact graded commit installs on every promised Python, runs from a fresh clone with no private files, and every reported number matches its result file."
+    }
+  ]
+}

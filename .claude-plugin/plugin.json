@@ -1,0 +1,13 @@
+{
+  "name": "submission-correctness",
+  "description": "Pre-submission check that a course project or graded repo installs and runs for the grader, human or AI agent, so Correctness marks are not lost.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Abdlaraouf Alkabir",
+    "url": "https://github.com/afel6"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/afel6/submission-correctness",
+  "repository": "https://github.com/afel6/submission-correctness",
+  "keywords": ["skill", "grading", "submission", "reproducibility", "python", "course-project"]
+}
